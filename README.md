@@ -1,4 +1,4 @@
-<h4 align="left">Sheshank Sonji - Developer and AI Enthusiast<br>I am a passionate developer with expertise in full-stack development, machine learning, and data science. With experience working for 5+ companies across India and contributing to projects for the Indian Airforce, I specialize in creating web applications, AI models, and analyzing data.<br><br>Skills<br>Languages: Python, C, C++, JavaScript, SQL<br>Web: React, React Native, Next.js, Node.js, Express.js<br>Databases: MongoDB, PostgreSQL, Supabase<br>Machine Learning: scikit-learn, TensorFlow, Keras<br>Data Analysis: Pandas, NumPy, Matplotlib<br>Achievements<br>State-level Hackathon: 2nd Prize<br>National-level Hackathon: Runner-up<br>Experience: Worked with 5+ companies, including contributions to the Indian Airforce<br>Let's Connect<br>Email: sonjishashank2534@gmail.com<br>LinkedIn: Sheshank Sonji<br>Instagram: @shashanksonji_69</h4>
+<h4 align="left">Sheshank Sonji - Developer and AI Enthusiast<br>I am a passionate developer with expertise in full-stack development, machine learning, and data science. With experience working for 5+ companies across India and contributing to projects for the Indian Airforce, I specialize in creating web applications, AI models, and analyzing data.<br><br>Skills<br>Languages: Python, C, C++, JavaScript, SQL<br>Web: React, React Native, Next.js, Node.js, Express.js<br>Databases: MongoDB, PostgreSQL, Supabase<br>Machine Learning: scikit-learn, TensorFlow, Keras<br>Data Analysis: Pandas, NumPy, Matplotlib<br>Achievements<br>State-level Hackathon: 2nd Prize<br>National-level Hackathon: Runner-up<br>Experience: Worked with 5+ companies, including contributions to the Indian Airforce<br>Let's Connect<br>Email: sonjishashank2534@gmail.com<br>LinkedIn: https://www.linkedin.com/in/sheshank-sonji-87685b194<br>Instagram: https://www.instagram.com/shashanksonji_69/</h4>
 
 ###
 
@@ -66,12 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sonjishashank&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonjishashank&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonjishashank&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###

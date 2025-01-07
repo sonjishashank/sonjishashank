@@ -1,4 +1,4 @@
-# Sheshank Sonji - Developer and Data Science Enthusiast
+# Sheshank Sonji - Developer and AI Enthusiast
 
 Welcome to my profile! I am a passionate developer with expertise in a variety of technologies and a strong background in both software development and data science. I have worked with several companies across India and have experience in building full-stack applications, machine learning models, and handling data analysis tasks. Additionally, I have had the honor of working with the Indian Airforce on some projects.
 
